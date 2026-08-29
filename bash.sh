@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Server Health Check - Daily"
+echo "Server Health Morning Check - Daily"
 echo "-------------------"
 
 echo "Hostname:"
